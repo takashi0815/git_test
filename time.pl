@@ -23,6 +23,7 @@ my $time = time;
 
 my $yyyymmdd = &get_time($test,$time);
 print "$yyyymmdd\n";
+print "Hello!World\n";
 
 sub get_time()
 {
